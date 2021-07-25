@@ -2,4 +2,13 @@
 	<url>
 		<loc>https://www.tiktok.com/tos/node/sitemaps/sitemap.xml/index.html</loc>
 	</url>
+	<url>
+		<loc>https://www.tiktok.com/tos/node/sitemaps/sitemap.xml/teknikal.html</loc>
+	</url>
+	<url>
+		<loc>https://www.tiktok.com/tos/node/sitemaps/sitemap.xml/airdrop.html</loc>
+	</url>
+	<url>
+		<loc>https://www.tiktok.com/tos/node/sitemaps/sitemap.xml/nfts.html</loc>
+	</url>
 </urlset>
